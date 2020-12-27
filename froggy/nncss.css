@@ -1,0 +1,106 @@
+body{
+	height: 100vh;
+	margin:0;
+	padding:0;
+	font-family:Amatic SC;
+	
+}
+/*---------------Верхнее меню вмете с лого-------------*/
+.navigation ul {
+  background-image: url(https://sun9-62.userapi.com/impg/g3XTfS0_i4-Rw4WtO79t1NUjCb11g6yWTCmh6g/mgKgNmFz4Ps.jpg?size=1280x1024&quality=96&proxy=1&sign=ae9bb2298ff9f2018b0e4101e9e5d38b&type=album) ;
+  background-position:center;
+  overflow: hidden;
+  padding: 0;
+  margin-top:0px;
+}
+.navigation li {
+  float: right;
+  list-style-type: none
+  
+}
+.navigation a {
+  display: block;
+  padding: 1em;
+  color: #000000;
+  text-decoration:none;
+  font-size:50px;
+}
+.navigation a:hover {background: #acc8b3}
+
+.logo img {
+	max-width:150px;
+}
+/*----------середина-----------------*/
+.tea{
+	margin-top:-20px;
+	width:100%;
+	height:100%;
+	background-image: url(https://1.downloader.disk.yandex.ru/preview/f35eca1edc6b26405494ae306c9bcd4ff1e33c9ffe5864cd484dafd803d3f955/inf/f9YmLTQ5GfjWx_16MWMtxiugDddOsSWHeXHmWZ_W_WbvJuF7neGIlLW3HvYZAOVswFc4FOLeyzR4nlTq7WA97A%3D%3D?uid=1090482255&filename=%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1090482255&tknv=v2&size=1850x1044);
+	background-position:center;
+	background-size:100%;
+	}
+.tea img{
+	position:right;
+	margin-top:250px;
+	width:500px;
+	box-shadow: 0 1px 2px rgba(0,0,0,.1) inset;
+}
+.tea img:hover{
+	box-shadow:0 0 10px 10px #8c8c8c; 
+-webkit-transition: all 0.5s ease;
+-moz-transition: all 0.5s ease;
+transition: all 0.5s ease;
+}
+.tea h1{
+	padding-left:50%;
+	margin-top:-650px;
+	font-size:100px;
+}
+.tea p{
+	padding-left:30%;
+	font-size:70px;
+}
+
+.kp{
+	padding-left:50%;
+	margin-top:-20px;
+}
+a.knopka {
+  font-size: 60px;
+  color: white;
+  text-decoration: none;
+  padding: 50px 100px;
+  border-radius: 50%;
+  background: rgb(64,199,129);
+  box-shadow: 0 -3px rgb(53,167,110) inset;
+  transition: 0.2s;
+} 
+a.knopka:hover { background: rgb(53, 167, 110); }
+a.knopka:active {
+  background: rgb(33,147,90);
+  box-shadow: 0 3px rgb(33,147,90) inset;
+}
+
+.foot{
+
+height:150px;
+background: rgb(20, 2, 2);
+width: 100%;
+margin-top:-50px;
+}
+.licen{
+
+color: #fff;
+font-size:50px;
+}
+.vk{
+	margin-top:-120px;
+}
+
+
+
+
+
+
+
+
